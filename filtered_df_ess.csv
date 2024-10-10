@@ -1,0 +1,15 @@
+station_id,start_date,end_date,altitude,latitude,longitude,station_name,state
+555,20071231,20241007,110,51.5026,7.2289,Bochum,Nordrhein-Westfalen
+989,20041130,20241007,46,51.5765,6.7849,Dinslaken,Nordrhein-Westfalen
+1024,20060606,20241007,37,51.1157,6.851,Dormagen-Zons,Nordrhein-Westfalen
+1078,20081103,20241007,37,51.296,6.7686,Düsseldorf,Nordrhein-Westfalen
+1303,20051208,20241007,150,51.4041,6.9677,Essen-Bredeney,Nordrhein-Westfalen
+1595,20120906,20241007,91,51.5762,7.0652,Gelsenkirchen-Buer,Nordrhein-Westfalen
+3795,20041017,20241007,49,51.7066,7.3564,Olfen,Nordrhein-Westfalen
+4741,20041130,20241007,152,51.14,7.093,Solingen-Hohenscheid,Nordrhein-Westfalen
+5619,20041019,20241007,360,51.1637,7.4234,Wipperfürth-Gardeweg,Nordrhein-Westfalen
+5717,20060705,20241007,134,51.2256,7.1052,Wuppertal-Buchenhofen,Nordrhein-Westfalen
+6313,20041130,20241007,440,51.2488,7.4672,Breckerfeld-Wengeberg,Nordrhein-Westfalen
+13670,20070531,20241007,24,51.5088,6.7018,Duisburg-Baerl,Nordrhein-Westfalen
+13696,20071130,20241007,60,51.5966,7.4048,Waltrop-Abdinghof,Nordrhein-Westfalen
+13700,20080430,20241007,203,51.3329,7.3412,Gevelsberg-Oberbröking,Nordrhein-Westfalen

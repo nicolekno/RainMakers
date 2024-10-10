@@ -1,0 +1,4 @@
+station_id,start_date,end_date,altitude,latitude,longitude,station_name,state
+1803,20040831,20241007,35,54.0714,12.3238,Groß Lüsewitz,Mecklenburg-Vorpommern
+2749,20040731,20241007,52,54.0805,11.7425,Gersdorf,Mecklenburg-Vorpommern
+4271,20080424,20241007,5,54.1803,12.0808,Rostock-Warnemünde,Mecklenburg-Vorpommern

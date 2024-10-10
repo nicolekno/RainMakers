@@ -1,0 +1,21 @@
+station_id,start_date,end_date,altitude,latitude,longitude,station_name,state
+279,20060817,20241007,457,48.7574,9.4514,Baltmannsweiler-Hohengehren,Baden-Württemberg
+301,20150831,20241007,659,48.7584,9.9855,Bartholomä,Baden-Württemberg
+1886,20031231,20241007,444,48.4878,10.2608,Günzburg,Bayern
+2814,20031231,20241007,687,48.5122,9.7644,Merklingen,Baden-Württemberg
+3402,20031231,20241007,755,48.3851,9.4837,Münsingen-Apfelstetten,Baden-Württemberg
+3418,20051231,20241007,594,48.2754,9.6355,Ehingen-Kirchen,Baden-Württemberg
+4887,20081001,20241007,734,48.6656,9.8648,Stötten,Baden-Württemberg
+5174,20060930,20241006,471,48.4951,9.4003,UrachBad,Baden-Württemberg
+5444,20031231,20241007,500,48.3091,10.2049,Weißenhorn-Oberreichenbach,Bayern
+5511,20050802,20241007,825,48.5206,9.6187,Westerheim,Baden-Württemberg
+5985,20180108,20241006,386,48.652,9.6232,BollBad,Baden-Württemberg
+5987,20180522,20241006,591,48.287,9.4996,Hayingen-Anhausen,Baden-Württemberg
+5992,20180110,20241006,266,48.853,9.5365,Rudersberg-Michelau,Baden-Württemberg
+6262,20031231,20241007,412,48.7695,9.8737,Schwäbisch Gmünd-Weiler,Baden-Württemberg
+6275,20031231,20241007,327,48.6705,9.4627,Notzingen,Baden-Württemberg
+7241,20060914,20241006,470,48.8707,9.6442,Welzheim,Baden-Württemberg
+7242,20060914,20241006,565,48.5682,9.6372,Wiesensteig,Baden-Württemberg
+7489,20061124,20241006,348,48.7448,9.6484,Birenbach,Baden-Württemberg
+13698,20071231,20241007,504,48.8767,10.2413,Lauchheim,Baden-Württemberg
+15444,20140831,20241007,593,48.4418,9.9216,Ulm-Mähringen,Baden-Württemberg
